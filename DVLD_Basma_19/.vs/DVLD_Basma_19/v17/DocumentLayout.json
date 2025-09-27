@@ -1,0 +1,564 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|c:\\users\\hp\\source\\repos\\dvld_basma_19\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\global classes\\clsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|solutionrelative:global classes\\clsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|solutionrelative:login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\app.manifest||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|solutionrelative:app.manifest||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|solutionrelative:login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\global classes\\clsvalidatoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|solutionrelative:global classes\\clsvalidatoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\global classes\\clsformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|solutionrelative:global classes\\clsformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\global classes\\clsutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|solutionrelative:global classes\\clsutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\applications\\international license\\frmnewinternationallicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|solutionrelative:applications\\international license\\frmnewinternationallicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB62E193-D046-4049-8C15-A8832F865A7A}|..\\DVLD_DataAccessLayer\\DVLD_DataAccessLayer.csproj|C:\\Users\\HP\\source\\repos\\dvld_dataaccesslayer\\clsinternationallicensedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\applications\\international license\\frmnewinternationallicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|solutionrelative:applications\\international license\\frmnewinternationallicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4AD5E0-CD33-430F-9108-247E1B5BAF40}|..\\DVlD_BusinessLayer\\DVLD_BuisnessLayer.csproj|C:\\Users\\HP\\source\\repos\\dvld_businesslayer\\clsinternationallicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB62E193-D046-4049-8C15-A8832F865A7A}|..\\DVLD_DataAccessLayer\\DVLD_DataAccessLayer.csproj|C:\\Users\\HP\\source\\repos\\dvld_dataaccesslayer\\clsapplicationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\applications\\international license\\frmlistinternationallicesnseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|solutionrelative:applications\\international license\\frmlistinternationallicesnseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\applications\\international license\\frmlistinternationallicesnseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|solutionrelative:applications\\international license\\frmlistinternationallicesnseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\licenses\\international licenses\\frmshowinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|solutionrelative:licenses\\international licenses\\frmshowinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\licenses\\international licenses\\frmshowinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|solutionrelative:licenses\\international licenses\\frmshowinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\licenses\\international licenses\\controls\\ctrldriverinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|solutionrelative:licenses\\international licenses\\controls\\ctrldriverinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\licenses\\international licenses\\controls\\ctrldriverinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|solutionrelative:licenses\\international licenses\\controls\\ctrldriverinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4AD5E0-CD33-430F-9108-247E1B5BAF40}|..\\DVlD_BusinessLayer\\DVLD_BuisnessLayer.csproj|C:\\Users\\HP\\source\\repos\\dvld_businesslayer\\clslicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB62E193-D046-4049-8C15-A8832F865A7A}|..\\DVLD_DataAccessLayer\\DVLD_DataAccessLayer.csproj|C:\\Users\\HP\\source\\repos\\dvld_dataaccesslayer\\clsdriverdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\applications\\rlease detained license\\frmlistdetainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|solutionrelative:applications\\rlease detained license\\frmlistdetainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\applications\\rlease detained license\\frmlistdetainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|solutionrelative:applications\\rlease detained license\\frmlistdetainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\applications\\rlease detained license\\frmreleasedetainedlicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|solutionrelative:applications\\rlease detained license\\frmreleasedetainedlicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\applications\\rlease detained license\\frmreleasedetainedlicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|solutionrelative:applications\\rlease detained license\\frmreleasedetainedlicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4AD5E0-CD33-430F-9108-247E1B5BAF40}|..\\DVlD_BusinessLayer\\DVLD_BuisnessLayer.csproj|C:\\Users\\HP\\source\\repos\\dvld_businesslayer\\clsdetainedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB62E193-D046-4049-8C15-A8832F865A7A}|..\\DVLD_DataAccessLayer\\DVLD_DataAccessLayer.csproj|C:\\Users\\HP\\source\\repos\\dvld_dataaccesslayer\\clsdetainedlicensedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB62E193-D046-4049-8C15-A8832F865A7A}|..\\DVLD_DataAccessLayer\\DVLD_DataAccessLayer.csproj|C:\\Users\\HP\\source\\repos\\dvld_dataaccesslayer\\clslicensedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\licenses\\detain license\\frmdetainlicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|solutionrelative:licenses\\detain license\\frmdetainlicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\licenses\\detain license\\frmdetainlicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|solutionrelative:licenses\\detain license\\frmdetainlicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\licenses\\local licenses\\controls\\ctrldriverlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|solutionrelative:licenses\\local licenses\\controls\\ctrldriverlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\licenses\\local licenses\\controls\\ctrldriverlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A985819-6646-41AB-A39D-A8FB958519CF}|DVLD_Basma_19.csproj|solutionrelative:licenses\\local licenses\\controls\\ctrldriverlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsFormat.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Global Classes\\clsFormat.cs",
+              "RelativeDocumentMoniker": "Global Classes\\clsFormat.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Global Classes\\clsFormat.cs",
+              "RelativeToolTip": "Global Classes\\clsFormat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T20:34:21.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsValidatoin.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Global Classes\\clsValidatoin.cs",
+              "RelativeDocumentMoniker": "Global Classes\\clsValidatoin.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Global Classes\\clsValidatoin.cs",
+              "RelativeToolTip": "Global Classes\\clsValidatoin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T20:34:17.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsGlobal.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Global Classes\\clsGlobal.cs",
+              "RelativeDocumentMoniker": "Global Classes\\clsGlobal.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Global Classes\\clsGlobal.cs",
+              "RelativeToolTip": "Global Classes\\clsGlobal.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAADwAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T20:33:58.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Login\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Login\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Login\\frmLogin.cs",
+              "RelativeToolTip": "Login\\frmLogin.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAEMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-25T20:34:47.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsUtil.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Global Classes\\clsUtil.cs",
+              "RelativeDocumentMoniker": "Global Classes\\clsUtil.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Global Classes\\clsUtil.cs",
+              "RelativeToolTip": "Global Classes\\clsUtil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T20:34:15.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\frmMain.cs",
+              "RelativeToolTip": "frmMain.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:22:36.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\frmMain.cs [Design]",
+              "RelativeToolTip": "frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T19:33:40.397Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Login\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Login\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Login\\frmLogin.cs [Design]",
+              "RelativeToolTip": "Login\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-25T20:34:38.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\app.manifest",
+              "RelativeDocumentMoniker": "app.manifest",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\app.manifest",
+              "RelativeToolTip": "app.manifest",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2024-09-26T13:19:06.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmNewInternationalLicenseApplication.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Applications\\International License\\frmNewInternationalLicenseApplication.cs",
+              "RelativeDocumentMoniker": "Applications\\International License\\frmNewInternationalLicenseApplication.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Applications\\International License\\frmNewInternationalLicenseApplication.cs [Design]",
+              "RelativeToolTip": "Applications\\International License\\frmNewInternationalLicenseApplication.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T18:48:51.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmNewInternationalLicenseApplication.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Applications\\International License\\frmNewInternationalLicenseApplication.cs",
+              "RelativeDocumentMoniker": "Applications\\International License\\frmNewInternationalLicenseApplication.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Applications\\International License\\frmNewInternationalLicenseApplication.cs",
+              "RelativeToolTip": "Applications\\International License\\frmNewInternationalLicenseApplication.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAFgAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T18:52:24.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "clsInternationalLicense.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVlD_BusinessLayer\\clsInternationalLicense.cs",
+              "RelativeDocumentMoniker": "..\\DVlD_BusinessLayer\\clsInternationalLicense.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVlD_BusinessLayer\\clsInternationalLicense.cs",
+              "RelativeToolTip": "..\\DVlD_BusinessLayer\\clsInternationalLicense.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAIA8wCgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T15:07:31.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "clsApplicationData.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_DataAccessLayer\\clsApplicationData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccessLayer\\clsApplicationData.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_DataAccessLayer\\clsApplicationData.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccessLayer\\clsApplicationData.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAvwHMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T16:31:40.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsInternationalLicenseData.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_DataAccessLayer\\clsInternationalLicenseData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccessLayer\\clsInternationalLicenseData.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_DataAccessLayer\\clsInternationalLicenseData.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccessLayer\\clsInternationalLicenseData.cs",
+              "ViewState": "AQIAALYAAAAAAAAAAAAAAL0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T14:47:36.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmListInternationalLicesnseApplications.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Applications\\International License\\frmListInternationalLicesnseApplications.cs",
+              "RelativeDocumentMoniker": "Applications\\International License\\frmListInternationalLicesnseApplications.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Applications\\International License\\frmListInternationalLicesnseApplications.cs",
+              "RelativeToolTip": "Applications\\International License\\frmListInternationalLicesnseApplications.cs",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAiwNgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T19:17:17.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-16T19:26:39.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T19:26:41.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmListInternationalLicesnseApplications.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Applications\\International License\\frmListInternationalLicesnseApplications.cs",
+              "RelativeDocumentMoniker": "Applications\\International License\\frmListInternationalLicesnseApplications.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Applications\\International License\\frmListInternationalLicesnseApplications.cs [Design]",
+              "RelativeToolTip": "Applications\\International License\\frmListInternationalLicesnseApplications.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T19:12:56.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmShowInternationalLicenseInfo.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Licenses\\International Licenses\\frmShowInternationalLicenseInfo.cs",
+              "RelativeDocumentMoniker": "Licenses\\International Licenses\\frmShowInternationalLicenseInfo.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Licenses\\International Licenses\\frmShowInternationalLicenseInfo.cs",
+              "RelativeToolTip": "Licenses\\International Licenses\\frmShowInternationalLicenseInfo.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T18:45:57.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmShowInternationalLicenseInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Licenses\\International Licenses\\frmShowInternationalLicenseInfo.cs",
+              "RelativeDocumentMoniker": "Licenses\\International Licenses\\frmShowInternationalLicenseInfo.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Licenses\\International Licenses\\frmShowInternationalLicenseInfo.cs [Design]",
+              "RelativeToolTip": "Licenses\\International Licenses\\frmShowInternationalLicenseInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T18:35:39.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ctrlDriverInternationalLicenseInfo.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Licenses\\International Licenses\\Controls\\ctrlDriverInternationalLicenseInfo.cs",
+              "RelativeDocumentMoniker": "Licenses\\International Licenses\\Controls\\ctrlDriverInternationalLicenseInfo.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Licenses\\International Licenses\\Controls\\ctrlDriverInternationalLicenseInfo.cs",
+              "RelativeToolTip": "Licenses\\International Licenses\\Controls\\ctrlDriverInternationalLicenseInfo.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-08-16T18:29:07.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ctrlDriverInternationalLicenseInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Licenses\\International Licenses\\Controls\\ctrlDriverInternationalLicenseInfo.cs",
+              "RelativeDocumentMoniker": "Licenses\\International Licenses\\Controls\\ctrlDriverInternationalLicenseInfo.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Licenses\\International Licenses\\Controls\\ctrlDriverInternationalLicenseInfo.cs [Design]",
+              "RelativeToolTip": "Licenses\\International Licenses\\Controls\\ctrlDriverInternationalLicenseInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-08-16T18:22:59.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "clsDriverData.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_DataAccessLayer\\clsDriverData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccessLayer\\clsDriverData.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_DataAccessLayer\\clsDriverData.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccessLayer\\clsDriverData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T15:06:26.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmListDetainedLicenses.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Applications\\Rlease Detained License\\frmListDetainedLicenses.cs",
+              "RelativeDocumentMoniker": "Applications\\Rlease Detained License\\frmListDetainedLicenses.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Applications\\Rlease Detained License\\frmListDetainedLicenses.cs",
+              "RelativeToolTip": "Applications\\Rlease Detained License\\frmListDetainedLicenses.cs",
+              "ViewState": "AQIAAOAAAAAAAAAAAAASwPEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T12:56:15.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmListDetainedLicenses.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Applications\\Rlease Detained License\\frmListDetainedLicenses.cs",
+              "RelativeDocumentMoniker": "Applications\\Rlease Detained License\\frmListDetainedLicenses.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Applications\\Rlease Detained License\\frmListDetainedLicenses.cs [Design]",
+              "RelativeToolTip": "Applications\\Rlease Detained License\\frmListDetainedLicenses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T12:42:39.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmReleaseDetainedLicenseApplication.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Applications\\Rlease Detained License\\frmReleaseDetainedLicenseApplication.cs",
+              "RelativeDocumentMoniker": "Applications\\Rlease Detained License\\frmReleaseDetainedLicenseApplication.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Applications\\Rlease Detained License\\frmReleaseDetainedLicenseApplication.cs [Design]",
+              "RelativeToolTip": "Applications\\Rlease Detained License\\frmReleaseDetainedLicenseApplication.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-15T14:39:02.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "clsLicense.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVlD_BusinessLayer\\clsLicense.cs",
+              "RelativeDocumentMoniker": "..\\DVlD_BusinessLayer\\clsLicense.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVlD_BusinessLayer\\clsLicense.cs",
+              "RelativeToolTip": "..\\DVlD_BusinessLayer\\clsLicense.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T12:24:32.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmReleaseDetainedLicenseApplication.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Applications\\Rlease Detained License\\frmReleaseDetainedLicenseApplication.cs",
+              "RelativeDocumentMoniker": "Applications\\Rlease Detained License\\frmReleaseDetainedLicenseApplication.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Applications\\Rlease Detained License\\frmReleaseDetainedLicenseApplication.cs",
+              "RelativeToolTip": "Applications\\Rlease Detained License\\frmReleaseDetainedLicenseApplication.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAAFoAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-15T14:46:25.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "clsDetainedLicense.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVlD_BusinessLayer\\clsDetainedLicense.cs",
+              "RelativeDocumentMoniker": "..\\DVlD_BusinessLayer\\clsDetainedLicense.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVlD_BusinessLayer\\clsDetainedLicense.cs",
+              "RelativeToolTip": "..\\DVlD_BusinessLayer\\clsDetainedLicense.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAtwIAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:33:34.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "clsDetainedLicenseData.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_DataAccessLayer\\clsDetainedLicenseData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccessLayer\\clsDetainedLicenseData.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_DataAccessLayer\\clsDetainedLicenseData.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccessLayer\\clsDetainedLicenseData.cs",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAtwKUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:30:26.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "clsLicenseData.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_DataAccessLayer\\clsLicenseData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccessLayer\\clsLicenseData.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_DataAccessLayer\\clsLicenseData.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccessLayer\\clsLicenseData.cs",
+              "ViewState": "AQIAAE0BAAAAAAAAAAAAAIcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:35:56.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmDetainLicenseApplication.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Licenses\\Detain License\\frmDetainLicenseApplication.cs",
+              "RelativeDocumentMoniker": "Licenses\\Detain License\\frmDetainLicenseApplication.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Licenses\\Detain License\\frmDetainLicenseApplication.cs",
+              "RelativeToolTip": "Licenses\\Detain License\\frmDetainLicenseApplication.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAAFgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-15T12:34:50.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frmDetainLicenseApplication.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Licenses\\Detain License\\frmDetainLicenseApplication.cs",
+              "RelativeDocumentMoniker": "Licenses\\Detain License\\frmDetainLicenseApplication.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Licenses\\Detain License\\frmDetainLicenseApplication.cs [Design]",
+              "RelativeToolTip": "Licenses\\Detain License\\frmDetainLicenseApplication.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-15T12:27:31.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ctrlDriverLicenseInfo.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Licenses\\Local Licenses\\Controls\\ctrlDriverLicenseInfo.cs",
+              "RelativeDocumentMoniker": "Licenses\\Local Licenses\\Controls\\ctrlDriverLicenseInfo.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Licenses\\Local Licenses\\Controls\\ctrlDriverLicenseInfo.cs",
+              "RelativeToolTip": "Licenses\\Local Licenses\\Controls\\ctrlDriverLicenseInfo.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-08-15T12:24:05.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ctrlDriverLicenseInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Licenses\\Local Licenses\\Controls\\ctrlDriverLicenseInfo.cs",
+              "RelativeDocumentMoniker": "Licenses\\Local Licenses\\Controls\\ctrlDriverLicenseInfo.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_Basma_19\\Licenses\\Local Licenses\\Controls\\ctrlDriverLicenseInfo.cs [Design]",
+              "RelativeToolTip": "Licenses\\Local Licenses\\Controls\\ctrlDriverLicenseInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-08-15T12:24:03.19Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
